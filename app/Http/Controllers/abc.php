@@ -11,6 +11,7 @@ class abc extends Controller
     function  getRouter(){
         $i = 2;
         $i2 = 4;
+        $total = $i + $i2;
 
     }
 

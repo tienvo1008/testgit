@@ -8,5 +8,10 @@ class abc extends Controller
 {
     //]funcsjfjksdbfsdnbfbsdjkfnsd
     // new rebase
+    function  getRouter(){
+        $i = 2;
+        $i2 = 4;
+
+    }
 
 }
